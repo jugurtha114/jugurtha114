@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jugurtha114
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning for LPIC3
-- 💞️ I’m looking to collaborate on Iot Busness
+- 💞️ I’m looking to collaborate with cutting edge business companies.
 - 📫 How to reach me : jugurthagreen@gmail.com , or using telegram : http://t.me/Jugurtha_Green
 
 <!---
